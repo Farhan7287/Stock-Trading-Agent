@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T15:07:09.094173",
+  "stocks_analysed": 10,
+  "recommendations": [
+    {
+      "symbol": "ICICIBANK.NS",
+      "recommendation": "BUY",
+      "confidence_score": 65.21988404315647,
+      "current_price": 1373.0,
+      "price_target": 1412.82,
+      "stop_loss": 1278.26,
+      "rationale": "Recommendation: BUY (Confidence: 65%) Technical analysis shows upward trend with supporting indicators. Risk assessment indicates moderate risk profile (score: 0.35). P/E ratio of 18.7 suggests reasonable valuation. The positive factors outweigh the risks, presenting a favorable risk-adjusted opportunity.",
+      "errors": []
+    },
+    {
+      "symbol": "AXISBANK.NS",
+      "recommendation": "BUY",
+      "confidence_score": 64.7432560238321,
+      "current_price": 1369.0,
+      "price_target": 1377.59,
+      "stop_loss": 1274.54,
+      "rationale": "Recommendation: BUY (Confidence: 65%) Technical analysis shows upward trend with supporting indicators. Risk assessment indicates moderate risk profile (score: 0.40). P/E ratio of 16.2 suggests reasonable valuation. The positive factors outweigh the risks, presenting a favorable risk-adjusted opportunity.",
+      "errors": []
+    },
+    {
+      "symbol": "SBIN.NS",
+      "recommendation": "BUY",
+      "confidence_score": 64.62125243896399,
+      "current_price": 1107.35,
+      "price_target": 1195.94,
+      "stop_loss": 1030.94,
+      "rationale": "Recommendation: BUY (Confidence: 65%) Technical analysis shows upward trend with supporting indicators. Risk assessment indicates moderate risk profile (score: 0.37). P/E ratio of 12.1 suggests attractive valuation. The positive factors outweigh the risks, presenting a favorable risk-adjusted opportunity.",
+      "errors": []
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "recommendation": "BUY",
+      "confidence_score": 63.95469308196593,
+      "current_price": 795.6,
+      "price_target": 818.67,
+      "stop_loss": 740.7,
+      "rationale": "Recommendation: BUY (Confidence: 64%) Technical analysis shows sideways trend with supporting indicators. Identified chart patterns: Double Bottom. Risk assessment indicates moderate risk profile (score: 0.35). P/E ratio of 17.8 suggests reasonable valuation. The positive factors outweigh the risks, presenting a favorable risk-adjusted opportunity.",
+      "errors": []
+    },
+    {
+      "symbol": "DIVISLAB.NS",
+      "recommendation": "HOLD",
+      "confidence_score": 61.879764076872625,
+      "current_price": 6286.5,
+      "price_target": 6412.23,
+      "stop_loss": 5972.17,
+      "rationale": "Recommendation: HOLD (Confidence: 62%) Technical analysis shows upward trend with supporting indicators. Risk assessment indicates moderate risk profile (score: 0.49). P/E ratio of 67.3 suggests expensive valuation. Mixed signals suggest a cautious approach with careful monitoring of key indicators.",
+      "errors": []
+    },
+    {
+      "symbol": "SBILIFE.NS",
+      "recommendation": "HOLD",
+      "confidence_score": 61.71000344502542,
+      "current_price": 1978.8,
+      "price_target": 2018.38,
+      "stop_loss": 1879.86,
+      "rationale": "Recommendation: HOLD (Confidence: 62%) Technical analysis shows upward trend with supporting indicators. Risk assessment indicates moderate risk profile (score: 0.47). P/E ratio of 80.3 suggests expensive valuation. Mixed signals suggest a cautious approach with careful monitoring of key indicators.",
+      "errors": []
+    },
+    {
+      "symbol": "HINDALCO.NS",
+      "recommendation": "HOLD",
+      "confidence_score": 61.52439427268125,
+      "current_price": 1022.75,
+      "price_target": 1043.2,
+      "stop_loss": 971.61,
+      "rationale": "Recommendation: HOLD (Confidence: 62%) Technical analysis shows upward trend with supporting indicators. Identified chart patterns: Double Top. Risk assessment indicates moderate risk profile (score: 0.46). P/E ratio of 14.1 suggests attractive valuation. Mixed signals suggest a cautious approach with careful monitoring of key indicators.",
+      "errors": []
+    },
+    {
+      "symbol": "BRITANNIA.NS",
+      "recommendation": "HOLD",
+      "confidence_score": 59.79657564284957,
+      "current_price": 5680.0,
+      "price_target": 5793.6,
+      "stop_loss": 5396.0,
+      "rationale": "Recommendation: HOLD (Confidence: 60%) Technical analysis shows upward trend with supporting indicators. Risk assessment indicates moderate risk profile (score: 0.49). P/E ratio of 56.6 suggests expensive valuation. Mixed signals suggest a cautious approach with careful monitoring of key indicators.",
+      "errors": []
+    },
+    {
+      "symbol": "BPCL.NS",
+      "recommendation": "HOLD",
+      "confidence_score": 58.53790028419736,
+      "current_price": 308.35,
+      "price_target": 314.52,
+      "stop_loss": 292.93,
+      "rationale": "Recommendation: HOLD (Confidence: 59%) Technical analysis shows upward trend with supporting indicators. Identified chart patterns: Double Bottom. Risk assessment indicates moderate risk profile (score: 0.49). P/E ratio of 5.4 suggests attractive valuation. Mixed signals suggest a cautious approach with careful monitoring of key indicators.",
+      "errors": []
+    },
+    {
+      "symbol": "INDUSINDBK.NS",
+      "recommendation": "HOLD",
+      "confidence_score": 58.398946007023724,
+      "current_price": 847.0,
+      "price_target": 863.94,
+      "stop_loss": 804.65,
+      "rationale": "Recommendation: HOLD (Confidence: 58%) Technical analysis shows upward trend with supporting indicators. Identified chart patterns: Double Top. Risk assessment indicates moderate risk profile (score: 0.51). Mixed signals suggest a cautious approach with careful monitoring of key indicators.",
+      "errors": []
+    }
+  ],
+  "actionable_trades": [],
+  "trade_count": 0
+}
